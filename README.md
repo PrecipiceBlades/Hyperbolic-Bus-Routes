@@ -11,4 +11,4 @@ conda install lxml numpy scipy jupyter networkx matplotlib pandas mpu joblib=0.1
 # Steps:
 1. Run Preprocessing.ipynb to process the data on the website
 2. Run 4pc_distances.ipynb to get the 4pc-episilon plot
-3. Run Our model.ipynb to get the hyperbolic embedding plot
+3. Run model.ipynb to get the hyperbolic embedding plot
