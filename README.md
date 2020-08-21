@@ -1,7 +1,7 @@
 # Hyperbolic Bus Routes
 Authors: Ruitao Yi, Abhirup Ghosh, Rik Sarkar
 
-Get the hyperbolic embeddings for Edinburgh bus transportation network
+Extracting hyperbolic embeddings for Edinburgh bus transportation network
 
 # Results
 
