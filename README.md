@@ -3,7 +3,7 @@ Authors: Ruitao Yi, Abhirup Ghosh, Rik Sarkar
 
 Get the hyperbolic embeddings for Edinburgh bus transportation network
 
-# Results:
+# Results
 
 Hyperbolic plot of Edinburgh bus routes
 
